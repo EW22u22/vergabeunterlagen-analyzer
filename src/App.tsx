@@ -81,7 +81,7 @@ export default function App() {
         <section className="hero">
           <div className="eyebrow">Auftragnehmer-Perspektive</div>
           <h1>Vergabeunterlagen komplett lesen. Relevante Punkte strukturiert finden.</h1>
-          <p>Alle Unterlagen gemeinsam hochladen. Die KI extrahiert Produkte, Mengen, technische Anforderungen, Fristen, Nachweise, Vertragsbedingungen und weitere relevante Punkte – ohne GO/NO-GO-Entscheidung.</p>
+          <p>Alle Unterlagen gemeinsam hochladen. Die KI extrahiert Produkte, Mengen, technische Anforderungen, Fristen, Nachweise, Vertragsbedingungen und weitere relevante Punkte</p>
         </section>
 
         {!report && (
