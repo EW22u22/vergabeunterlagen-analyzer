@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.124.0",
     "@vercel/node": "^5.3.0",
     "jszip": "^3.10.1",
     "lucide-react": "^0.468.0",
